@@ -1,0 +1,20 @@
+[0.286s] Invoking command in '/home/giselly/ros2_ws/build/my_robot_controller': PYTHONPATH=/home/giselly/ros2_ws/build/my_robot_controller/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/giselly/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/giselly/ros2_ws/build/my_robot_controller/build --no-deps symlink_data
+[0.403s] running develop
+[0.404s] /usr/lib/python3/dist-packages/setuptools/command/easy_install.py:158: EasyInstallDeprecationWarning: easy_install command is deprecated. Use build and pip and other standards-based tools.
+[0.404s]   warnings.warn(
+[0.468s] running egg_info
+[0.468s] writing my_robot_controller.egg-info/PKG-INFO
+[0.468s] writing dependency_links to my_robot_controller.egg-info/dependency_links.txt
+[0.468s] writing entry points to my_robot_controller.egg-info/entry_points.txt
+[0.468s] writing requirements to my_robot_controller.egg-info/requires.txt
+[0.468s] writing top-level names to my_robot_controller.egg-info/top_level.txt
+[0.469s] reading manifest file 'my_robot_controller.egg-info/SOURCES.txt'
+[0.470s] writing manifest file 'my_robot_controller.egg-info/SOURCES.txt'
+[0.470s] running build_ext
+[0.470s] Creating /home/giselly/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages/my-robot-controller.egg-link (link to .)
+[0.471s] Installing draw_circle script to /home/giselly/ros2_ws/install/my_robot_controller/lib/my_robot_controller
+[0.471s] Installing test_node script to /home/giselly/ros2_ws/install/my_robot_controller/lib/my_robot_controller
+[0.471s] 
+[0.471s] Installed /home/giselly/ros2_ws/build/my_robot_controller
+[0.471s] running symlink_data
+[0.484s] Invoked command in '/home/giselly/ros2_ws/build/my_robot_controller' returned '0': PYTHONPATH=/home/giselly/ros2_ws/build/my_robot_controller/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/giselly/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/giselly/ros2_ws/build/my_robot_controller/build --no-deps symlink_data
